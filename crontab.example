@@ -1,0 +1,2 @@
+0 4 * * * /opt/mirror.sh sass/node-sass >> /var/log/cron.log 2>&1
+0 5 * * * /opt/mirror.sh electron/electron >> /var/log/cron.log 2>&1
