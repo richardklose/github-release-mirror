@@ -73,3 +73,8 @@ Give a ⭐️ if this project helped you!
 
 Copyright © 2019 [Richard Klose &lt;richard@klose.dev&gt;](https://github.com/richardklose).<br />
 This project is [MIT](https://github.com/richardklose/github-release-mirror/blob/master/LICENSE) licensed.
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/richardklose/github-release-mirror/badge.svg?style=beer-square)](https://beerpay.io/richardklose/github-release-mirror)  [![Beerpay](https://beerpay.io/richardklose/github-release-mirror/make-wish.svg?style=flat-square)](https://beerpay.io/richardklose/github-release-mirror?focus=wish)
