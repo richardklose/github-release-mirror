@@ -19,9 +19,9 @@
 Many packages download prebuilt binaries from their GitHub Release. That has some disadvantages:
  * No reproducible builds. If the project is removed from GitHub, the prebuilt binaries are gone.
  * Required internet connection. If you can't access the internet or GitHub is down, you can't download binaries from there.
- * Fast internet connection. Downloading from GitHub is always slower than downloading from a server in your local network.
+ * Installation speed depends on internet connection speed. Downloading from GitHub is always slower than downloading from a server in your local network.
 
-Especially in an enterprise environment, it's not always the best solution to depend on external servers. On the other hand, you don't want to recompil$
+Especially in an enterprise environment, it's not always the best solution to depend on external servers. On the other hand, you don't want to recompile every external library on every build.
 
 This project is a simple mirror, that downloads and keeps releases of GitHub Projects on your own server.
 
