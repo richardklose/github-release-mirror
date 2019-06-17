@@ -14,7 +14,7 @@
 
 > Mirroring releases of GitHub projects made easy
 
-### 🏠 [Homepage](https://github.com/richardklose/github-release-mirror)
+### 🏠 [Homepage](https://github.com/richardklose/github-release-mirror) | 📝 [Blog post](https://blog.klose.dev/mirroring-releases-from-github/)
 
 Many packages download prebuilt binaries from their GitHub Release. That has some disadvantages:
  * No reproducible builds. If the project is removed from GitHub, the prebuilt binaries are gone.
